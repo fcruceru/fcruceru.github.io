@@ -1,24 +1,37 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about, me, software, engineer, portfolio]
+date: 2020-11-11
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>22 year old Software Engineer from Athlone, Ireland.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Abilities
+* Java
+* Python
+* JavaScript
+* Azure / DevOps
+* Vue.js
+* Docker / Kubernetes / Helm
+* MySQL / CosmosDB / ElasticSearch / InfluxDB
+
+## Projects & Past Work
+* Analyzing FOSS dependency usage and identifying key areas of improvement by consolidation
+* Migrating Application logging to Cloud Native
+* Capturing and recording system-wide metrics
+* Performance monitoring build statistics
+* Writing integration tests for celltrace file decoding
+* Developing a tool to parse OpenGrok queries into meaningful statistics, and convert these into presentable charts
+* Writing Python scripts to parse different types of logs and generate different statistics, ranging from similar message count to render engine frame times
+
+## Interests
+* Esports
+* Competitive video games
+* Reading
+* Cooking
+* Lists
 
 ## Preview
 
