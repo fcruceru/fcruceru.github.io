@@ -25,6 +25,11 @@ comments: false
 * Writing integration tests for celltrace file decoding
 * Developing a tool to parse OpenGrok queries into meaningful statistics, and convert these into presentable charts
 * Writing Python scripts to parse different types of logs and generate different statistics, ranging from similar message count to render engine frame times
+* API development using Azure Function Apps and CosmosDB
+* Using Azure Logic Apps to push to and consume Storage Queue messages for item information enrichment
+* Writing log parsers to record different statistics, such as similar message count or render engine profile times
+
+<center>Check out the <a href="{{ site.url }}/projects"><b>Projects Page</b></a> for in-depth examples of some of the things I'm working on at the moment.</center>
 
 ## Interests
 * Esports
@@ -32,19 +37,3 @@ comments: false
 * Reading
 * Cooking
 * Lists
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
