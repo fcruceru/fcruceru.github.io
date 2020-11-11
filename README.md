@@ -1,1 +1,1 @@
-# Personal Portfolio based on [https://github.com/TaylanTatli/Moon](Moon theme).
+# Personal Portfolio based on [Moon Theme](https://github.com/TaylanTatli/Moon).
