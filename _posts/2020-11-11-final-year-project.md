@@ -31,5 +31,10 @@ The goal is to deploy a Kubernetes cluster to orchestrate a network of Docker co
 
 
 # Architecture
+Kubernetes cluster with 3 worker nodes: data collection, data storage and delivery (presentation).
+- Data collection achieved through scraping of listing websites (DoneDeal/Gumtree) via self-adjusting (through k8s) number of Python scripts in Docker containers
+- Data storage leveraging queues to avoid bottlenecks and filtering data to conform to PostgreSQL database fields where it is stored
+- Data delivery served by React/MaterialUI application interacting with backend APIs
+
 ![Architecture image](https://i.imgur.com/Ir1Nntc.png)
 {: .img-medium}
