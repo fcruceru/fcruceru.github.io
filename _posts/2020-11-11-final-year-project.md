@@ -28,7 +28,8 @@ The goal is to deploy a Kubernetes cluster to orchestrate a network of Docker co
 - Match it against current records in the database
 - Feed the updated information into the database
 - Deliver a smooth user experience using React
-- Attempt to predict possible insurance prices
 
-### The project is still ongoing and will be finished towards the end of April 2021
-### I will be updating this page as time goes on and the project starts taking shape 😃
+
+# Architecture
+![Architecture image](https://i.imgur.com/Ir1Nntc.png)
+{: .img-medium}
